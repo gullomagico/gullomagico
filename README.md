@@ -9,7 +9,7 @@
 <hr>
 
 <p align="center">
-  <a href="https://github.com/gullomagico"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"></a>&nbsp;
+  <a href="https://gullomagico.github.io"><img src="https://img.shields.io/badge/-Github Personal Page-000?style=flat&logo=Github&logoColor=white"></a>&nbsp;
   <a href="https://codepen.io/gullomagico"><img src="https://img.shields.io/badge/-Codepen-444?style=flat&logo=Codepen&logoColor=white"></a>&nbsp;
   <a href="https://www.codewars.com/users/GulloMagico"><img src="https://img.shields.io/badge/-Codewars-900?style=flat&logo=Codewars&logoColor=black"></a>&nbsp;
   <a href="https://www.hackerrank.com/GulloMagico"><img src="https://img.shields.io/badge/-HackerRank-060?style=flat&logo=HackerRank&logoColor=black"></a>&nbsp;
