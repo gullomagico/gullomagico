@@ -2,7 +2,7 @@
 <p align="center">
   <b>I am a Developer & Musician</b> 
   <br><br>
-  Currently studying for a BSc in Music Information Science at the University of Milan.
+  BSc in Music Information Science at the University of Milan.
   <br><br><br>
   <q>Any sufficiently advanced technology is indistinguishable from magic.</q> -- Arthur C. Clarke
 </p>
