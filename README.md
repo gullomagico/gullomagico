@@ -1,6 +1,6 @@
 <h1 align="center"> Hello World!  <img src="https://media2.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="10%"> </h1>
 <p align="center">
-  <b>I am a Computer Science Student & Musician</b> 
+  <b>I am a Developer & Musician</b> 
   <br><br>
   Currently studying for a BSc in Music Information Science at the University of Milan.
   <br><br><br>
