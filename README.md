@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World!  <img src="https://media2.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="10%"> </h1>
+<h1 align="center"> Hello World!</h1>
 <p align="center">
   <b>I am a Developer & Musician</b> 
   <br><br>
