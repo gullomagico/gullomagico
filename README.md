@@ -9,11 +9,11 @@
 <hr>
 
 <p align="center">
-  <a href="https://gullomagico.github.io"><img src="https://img.shields.io/badge/-Github Personal Page-000?style=flat&logo=Github&logoColor=white"></a>&nbsp;
-  <a href="https://codepen.io/gullomagico"><img src="https://img.shields.io/badge/-Codepen-444?style=flat&logo=Codepen&logoColor=white"></a>&nbsp;
-  <a href="https://www.codewars.com/users/GulloMagico"><img src="https://img.shields.io/badge/-Codewars-900?style=flat&logo=Codewars&logoColor=black"></a>&nbsp;
-  <a href="https://www.hackerrank.com/GulloMagico"><img src="https://img.shields.io/badge/-HackerRank-060?style=flat&logo=HackerRank&logoColor=black"></a>&nbsp;
- <a href="https://leetcode.com/gullomagico/"><img src="https://img.shields.io/badge/-LeetCode-940?style=flat&logo=LeetCode&logoColor=black"></a>&nbsp;
+  <a href="https://gullomagico.github.io" target="_blank"><img src="https://img.shields.io/badge/-Github Personal Page-000?style=flat&logo=Github&logoColor=white"></a>&nbsp;
+  <a href="https://codepen.io/gullomagico" target="_blank"><img src="https://img.shields.io/badge/-Codepen-444?style=flat&logo=Codepen&logoColor=white"></a>&nbsp;
+  <a href="https://www.codewars.com/users/GulloMagico" target="_blank"><img src="https://img.shields.io/badge/-Codewars-900?style=flat&logo=Codewars&logoColor=black"></a>&nbsp;
+  <a href="https://www.hackerrank.com/GulloMagico" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-060?style=flat&logo=HackerRank&logoColor=black"></a>&nbsp;
+ <a href="https://leetcode.com/gullomagico/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-940?style=flat&logo=LeetCode&logoColor=black"></a>&nbsp;
   <a href="mailto:info@federicocafagna.it"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Mail.Ru&logoColor=white"></a>
 </p>
 
